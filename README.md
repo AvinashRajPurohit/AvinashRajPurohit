@@ -34,7 +34,7 @@ LANGUAGES: list = ["hindi", "english", "marwari" ,"python", "java", "dart", "C/C
 
 deepak_rajpurohit : dict = {
     "pronouns": PRONOUNS,
-     "about_me": ABOUT_ME
+     "about_me": ABOUT_ME,
      "languages": LANGUAGES,
      "frameworks": FRAMEWORKS,
 }
