@@ -36,7 +36,7 @@ deepak_rajpurohit : dict = {
     "pronouns": PRONOUNS,
      "about_me": ABOUT_ME,
      "languages": LANGUAGES,
-     "frameworks": FRAMEWORKS,
+     "frameworks": FRAMEWORKS
 }
 
 ```
