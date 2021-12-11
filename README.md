@@ -24,25 +24,19 @@ Here are some ideas to get you started:
 
 ```python
 
+PRONOUNS: list = ["he", "him"]
+
+ABOUT_ME : list = ["family", "coding", "software dev..", "music", "guitar", "Chai", "..." ]
+
+FRAMEWORKS: list = ["django", "flask", "fastApi", "flutter", "React", "..."]
+
+LANGUAGES: list = ["hindi", "english", "marwari" ,"python", "java", "dart", "C/C++", "javascript", "golang", "..."]
+
 deepak_rajpurohit : dict = {
-
-    "pronouns": ["he", "him"],
-
-    "coding": ["python", "java", 
-              "dart", "C/C++", 
-              "javascript", "golang", "..."
-            ],
-
-    "frameworks": ["django", "flask",
-                   "fastApi", "flutter", 
-                   "Rract", "..."
-                  ],
-
-    "about_me": ["family", "coding", 
-                  "software dev..", 
-                  "music", "guitar", "Chai.." 
-                ],
-
+    "pronouns": PRONOUNS,
+    "languages": LANGUAGES,
+    "frameworks": FRAMEWORKS,
+    "about_me": ABOUT_ME
 }
 
 ```
